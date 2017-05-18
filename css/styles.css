@@ -6,6 +6,15 @@
   color:white;
 }
 
-img {
+.navbar-link > a {
+  background-color: yellow;
+}
 
+img {
+  border: 4px gray solid;
+
+}
+
+.thumbnails {
+  text-align: center;
 }
